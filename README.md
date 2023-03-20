@@ -1,1 +1,0 @@
-# supernovvak.github.io
