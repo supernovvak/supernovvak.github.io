@@ -9,43 +9,6 @@
       <url>https://supernovvak.github.io/papermod-cover.png</url>
       <link>https://supernovvak.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://supernovvak.github.io/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>css</title>
-      <link>https://supernovvak.github.io/fr/frtags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://supernovvak.github.io/fr/frtags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://supernovvak.github.io/fr/frtags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://supernovvak.github.io/fr/frtags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://supernovvak.github.io/fr/frtags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://supernovvak.github.io/fr/frtags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://supernovvak.github.io/fr/frtags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://supernovvak.github.io/fr/frtags/themes/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://supernovvak.github.io/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
